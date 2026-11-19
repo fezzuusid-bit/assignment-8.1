@@ -31,7 +31,7 @@ HTML
         <!-- 3. Main Content Area with Statistic Cards -->
         <main class="dashboard-main">
             <div class="welcome-banner">
-                <h2>Welcome back, Atim!</h2>
+                <h2>Welcome back, falak!</h2>
                 <p>Here is an overview of your web development assignments and repository stats.</p>
             </div>
 
