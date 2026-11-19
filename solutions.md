@@ -13,7 +13,7 @@ HTML
         <!-- 1. Dashboard Header -->
         <header class="dashboard-header">
             <div class="logo">DevDashboard</div>
-            <div class="user-profile">Atim Akhtar</div>
+            <div class="user-profile">falak siddiqui</div>
         </header>
 
         <!-- 2. Sidebar Navigation -->
